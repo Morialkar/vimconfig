@@ -1,0 +1,39 @@
+[submodule "vim-colorstepper"]
+	path = bundle/vim-colorstepper
+	url = https://github.com/qualiabyte/vim-colorstepper
+[submodule "badwolf"]
+	path = bundle/badwolf/
+	url = https://github.com/sjl/badwolf.git
+[submodule "emmet-vim"]
+	path = bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "goyo.vim"]
+	path = bundle/goyo.vim
+	url = https://github.com/junegunn/goyo.vim.git
+[submodule "nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim-windowswap"]
+	path = bundle/vim-windowswap
+	url = https://github.com/wesQ3/vim-windowswap.git
+[submodule "vim-afterimage"]
+	path = bundle/vim-afterimage
+	url = https://github.com/tpope/vim-afterimage.git
+[submodule "vim-blade"]
+	path = bundle/vim-blade
+	url = https://github.com/xsbeats/vim-blade.git
+[submodule "vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "vim-speeddating"]
+	path = bundle/vim-speeddating
+	url = https://github.com/tpope/vim-speeddating.git
+[submodule "syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim-zenroom2"]
+	path = bundle/vim-zenroom2
+	url = https://github.com/amix/vim-zenroom2.git
+[submodule "YankRing.vim"]
+	path = bundle/YankRing.vim
+	url = https://github.com/vim-scripts/YankRing.vim.git
