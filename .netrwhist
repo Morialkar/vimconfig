@@ -1,2 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/philippe/www/244carleton/public/scripts'
+let g:netrw_dirhist_2='/home/philippe/www/244carleton/public'
+let g:netrw_dirhist_3='/home/philippe/www/244carleton'
+let g:netrw_dirhist_4='/home/philippe/www/244carleton/app'
+let g:netrw_dirhist_5='/home/philippe/www/244carleton/app/controllers'
+let g:netrw_dirhist_6='/home/philippe/www/244carleton'
+let g:netrw_dirhist_7='/home/philippe/www/244carleton/public'
+let g:netrw_dirhist_8='/home/philippe/www/244carleton/public/css'

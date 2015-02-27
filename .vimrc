@@ -2,6 +2,11 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+colorscheme murphy
+
+cnoreabbrev W w
+cnoreabbrev E Explore
+
 set relativenumber
 set number
 
