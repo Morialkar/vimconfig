@@ -6,7 +6,12 @@ cd ../
 
 ln -s .vim/.vimrc .vimrc
 
-cd .vim/bundle/vimproc.vim
+cd .vim
+
+git submodule init
+git submodule update
+
+cd bundle/vimproc.vim
 
 make
 
