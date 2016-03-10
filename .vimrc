@@ -9,6 +9,8 @@ cnoreabbrev E Explore
 
 set relativenumber
 set number
+let g:netrw_bufsettings = 'noma nomod nu nowrap ro nobl'
+let g:netrw_liststyle=3
 
 set tabstop=4
 set cinoptions+=+1
