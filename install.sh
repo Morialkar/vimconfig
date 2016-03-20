@@ -11,10 +11,4 @@ cd .vim
 git submodule init
 git submodule update
 
-cd bundle/vimproc.vim
-
-make
-
-cd ../../
-
 vim README.md
