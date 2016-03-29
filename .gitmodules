@@ -43,3 +43,15 @@
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-mustache-handlebars"]
+	path = bundle/vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
+[submodule "bundle/grunt-vim"]
+	path = bundle/grunt-vim
+	url = https://github.com/mklabs/grunt.vim.git
+[submodule "bundle/ycm"]
+	path = bundle/ycm
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/html_entities_helper"]
+	path = bundle/html_entities_helper
+	url = https://github.com/firegoby/html_entities_helper.vim.git
