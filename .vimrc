@@ -2,13 +2,14 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-colorscheme murphy
+colorscheme sol
 
 cnoreabbrev W w
 cnoreabbrev E Explore
 
 set relativenumber
 set number
+set backspace=2
 let g:netrw_bufsettings = 'noma nomod nu nowrap ro nobl'
 let g:netrw_liststyle=3
 
