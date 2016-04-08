@@ -2,7 +2,7 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-colorscheme sol
+colorscheme sonoma
 
 cnoreabbrev W w
 cnoreabbrev E Explore
