@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/philippe.gilbert/Libeo/Hitachi/mgv/src/Plugin/GlobalVariable'
 let g:netrw_dirhist_2='/Users/philippe.gilbert/Libeo/Hitachi/Dev'
 let g:netrw_dirhist_3='/Users/philippe.gilbert/Libeo/Hitachi/Dev/web'
 let g:netrw_dirhist_4='/Users/philippe.gilbert/Libeo/Hitachi/Dev/web/modules'
 let g:netrw_dirhist_5='/Users/philippe.gilbert/Libeo/Hitachi/Dev/web/modules/custom'
 let g:netrw_dirhist_6='/Users/philippe.gilbert/Libeo/Hitachi/Dev/web/modules/custom/button'
+let g:netrw_dirhist_7='/home/pgilbert/.vim'
+let g:netrw_dirhist_8='/home/pgilbert'

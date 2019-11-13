@@ -49,9 +49,6 @@
 [submodule "bundle/grunt-vim"]
 	path = bundle/grunt-vim
 	url = https://github.com/mklabs/grunt.vim.git
-[submodule "bundle/ycm"]
-	path = bundle/ycm
-	url = https://github.com/Valloric/YouCompleteMe.git
 [submodule "bundle/html_entities_helper"]
 	path = bundle/html_entities_helper
 	url = https://github.com/firegoby/html_entities_helper.vim.git
